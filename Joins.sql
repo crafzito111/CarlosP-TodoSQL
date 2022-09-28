@@ -1,4 +1,4 @@
-/*reto 2 */
+/*Joins*/
 SELECT
     users.id_user,
     roles.rol,
